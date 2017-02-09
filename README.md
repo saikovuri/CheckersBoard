@@ -1,1 +1,1 @@
-# CheckersBoard
+# CheckersBoard game
